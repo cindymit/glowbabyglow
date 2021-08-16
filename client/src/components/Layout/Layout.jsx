@@ -6,7 +6,8 @@ export default function Layout(props) {
     <div>
       <header>
         <h1>Glow Baby Glow!</h1>
-        <Link to="/login">Login/Signup</Link><br></br>
+        <Link to="/login">Login/Signup</Link>
+        <br />
         <Link to="/">Home</Link>
       </header>
       <hr />
